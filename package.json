@@ -1,6 +1,6 @@
 {
   "name": "vunah-component-kit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple kit",
   "main": "index.js",
   "types": "index.d.ts",
