@@ -1,7 +1,7 @@
 import React, { memo } from 'react';
 import { Text, StyleSheet } from 'react-native';
 import PropTypes from 'prop-types';
-import { ApplicationStyles } from 'themes';
+import { ApplicationStyles } from '../../themes';
 
 const TextComponent = ({
   children,
