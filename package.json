@@ -1,8 +1,9 @@
 {
   "name": "vunah-component-kit",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A simple kit",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "lint": "eslint"
   },

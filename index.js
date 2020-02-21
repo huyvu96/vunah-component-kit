@@ -1,3 +1,3 @@
-import Typography from './src/component/typography';
+import Text from './src/component/text';
 
-export { Typography };
+export { Text };
