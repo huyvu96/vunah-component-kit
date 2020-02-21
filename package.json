@@ -11,5 +11,11 @@
     "url": "git+https://github.com/huyvu96/vunah-component-kit.git"
   },
   "author": "Vunah",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "16.9.0"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0"
+  }
 }
