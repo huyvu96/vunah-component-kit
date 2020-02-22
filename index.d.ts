@@ -43,7 +43,7 @@ interface CoverFlowProps{
     contentStyle?: StyleProp<ViewStyle>,
     containerStyle?: StyleProp<ViewStyle>,
     onPress?: (value?: number) => void,
-    onChangePage?: (value?: number) => void,,
+    onChangePage?: (value?: number) => void
 }
 export class CoverFlow extends React.Component<CoverFlowProps> {}
 
